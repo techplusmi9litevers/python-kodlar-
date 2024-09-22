@@ -1,0 +1,2 @@
+# python-kodlar-
+.py uygulamaları
